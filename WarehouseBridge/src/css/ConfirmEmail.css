@@ -1,0 +1,8 @@
+.bg-cus {
+    background-image: url('https://ware2go.co/wp-content/uploads/2021/07/image-1200x800-1.jpeg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+}

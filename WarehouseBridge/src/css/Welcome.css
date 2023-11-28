@@ -1,0 +1,21 @@
+.line1,
+.line2 {
+    position: fixed;
+    top: 0;
+} 
+
+.line1 {
+    min-height: 100vh;
+    height: 100%;
+    width: 20px;
+    background-color: #ff3131;
+    left: 20%;
+}
+
+.line2 {
+    min-height: 100vh;
+    height: 100%;
+    width: 20px;
+    background-color: #183d79;
+    left: 25%;
+}

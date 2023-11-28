@@ -1,0 +1,12 @@
+.truncate-text {
+    width: 80%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.active-p {
+    background-color: #0f1728;
+    color: #fff;
+    border-radius: 5px;
+}

@@ -1,0 +1,53 @@
+.bg-fog {
+    background-color: rgba(0, 0, 0, 0.7);
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 50;
+}
+
+form {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.input-custom {
+    background-color: #eeeeee;
+    padding: 5px 15px;
+}
+
+.input-custom:focus {
+    outline: none;
+}
+
+.text-custom {
+}
+
+.text-custom:focus {
+    outline: none;
+}
+
+
+.hide-scroll {
+    -ms-overflow-style: none; /* khai báo sử dụng Internet Explorer, Edge */
+    scrollbar-width: none; /* sử dụng Firefox */
+    overflow-y: scroll; 
+}
+
+.hide-scroll::-webkit-scrollbar {
+    display: none; /* cho Chrome, Safari, and Opera */
+}
+
+.border-red-1 {
+    border: 1px solid red;
+}
+
+.border-tran {
+    border: 1px solid #fff;
+}

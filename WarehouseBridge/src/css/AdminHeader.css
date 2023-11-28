@@ -1,0 +1,22 @@
+.active {
+    background-color: #fff;
+    color: #000;
+}
+
+.hv-bg {
+    transition: .3s ease-in-out;
+}
+.hv-bg:hover {
+    background-color: #0f1728;
+    color: #fff;
+}
+
+.hide-scroll {
+    -ms-overflow-style: none; /* khai báo sử dụng Internet Explorer, Edge */
+    scrollbar-width: none; /* sử dụng Firefox */
+    overflow-y: scroll; 
+}
+
+.hide-scroll::-webkit-scrollbar {
+    display: none; /* cho Chrome, Safari, and Opera */
+}

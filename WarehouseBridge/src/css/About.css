@@ -1,0 +1,13 @@
+.icon {
+    background-color: #fea116;
+    font-size: 40px;
+    color: #fff;
+    border: 1px solid #fea116;
+    transition: .2s ease-in;
+    cursor: pointer;
+}
+
+.icon:hover {
+    background-color: #fff;
+    color: #fea116;
+}

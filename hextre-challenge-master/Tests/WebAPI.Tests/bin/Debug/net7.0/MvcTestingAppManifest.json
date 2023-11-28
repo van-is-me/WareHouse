@@ -1,0 +1,7 @@
+{
+  "Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\workSpace\\Ki8\\EXE201\\EXE201\\hextre-challenge-master\\Apis\\Application",
+  "Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\workSpace\\Ki8\\EXE201\\EXE201\\hextre-challenge-master\\Apis\\Domain",
+  "Domain.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\workSpace\\Ki8\\EXE201\\EXE201\\hextre-challenge-master\\Tests\\Domain.Tests",
+  "Infrastructures, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\workSpace\\Ki8\\EXE201\\EXE201\\hextre-challenge-master\\Apis\\Infrastructures",
+  "WebAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\workSpace\\Ki8\\EXE201\\EXE201\\hextre-challenge-master\\Apis\\WebAPI"
+}

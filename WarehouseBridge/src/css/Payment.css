@@ -1,0 +1,52 @@
+.underline-color {
+    text-decoration-color: #1773B0;
+}
+
+.border-cus {
+    border-left: 1px solid #d6d6d6;
+}
+
+.border-i {
+    border: 1px solid #d6d6d6;
+}
+
+.border-input {
+    border: 1px solid #dedede;
+}
+
+.border-input:focus {
+    outline-color: #1773b0;
+}
+
+.checkbox-cus {
+    accent-color: #1773b0;
+}
+
+.truncate-cus {
+    width: 90%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.button{
+    background-color: #1773B0;
+    transition: all 0.4s;
+}
+
+.button:hover{
+    background-color: #ff3333;
+}
+
+.showhide{
+    cursor: pointer;
+}
+
+.hide-scroll {
+    -ms-overflow-style: none; /* khai báo sử dụng Internet Explorer, Edge */
+    scrollbar-width: none; /* sử dụng Firefox */
+    overflow-y: scroll; 
+}
+
+.hide-scroll::-webkit-scrollbar {
+    display: none; /* cho Chrome, Safari, and Opera */
+}

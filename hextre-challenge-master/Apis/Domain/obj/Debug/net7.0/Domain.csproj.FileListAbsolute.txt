@@ -1,0 +1,12 @@
+D:\workSpace\Ki8\EXE201\EXE201\hextre-challenge-master\Apis\Domain\bin\Debug\net7.0\Domain.deps.json
+D:\workSpace\Ki8\EXE201\EXE201\hextre-challenge-master\Apis\Domain\bin\Debug\net7.0\Domain.dll
+D:\workSpace\Ki8\EXE201\EXE201\hextre-challenge-master\Apis\Domain\bin\Debug\net7.0\Domain.pdb
+D:\workSpace\Ki8\EXE201\EXE201\hextre-challenge-master\Apis\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+D:\workSpace\Ki8\EXE201\EXE201\hextre-challenge-master\Apis\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\workSpace\Ki8\EXE201\EXE201\hextre-challenge-master\Apis\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+D:\workSpace\Ki8\EXE201\EXE201\hextre-challenge-master\Apis\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+D:\workSpace\Ki8\EXE201\EXE201\hextre-challenge-master\Apis\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+D:\workSpace\Ki8\EXE201\EXE201\hextre-challenge-master\Apis\Domain\obj\Debug\net7.0\Domain.dll
+D:\workSpace\Ki8\EXE201\EXE201\hextre-challenge-master\Apis\Domain\obj\Debug\net7.0\refint\Domain.dll
+D:\workSpace\Ki8\EXE201\EXE201\hextre-challenge-master\Apis\Domain\obj\Debug\net7.0\Domain.pdb
+D:\workSpace\Ki8\EXE201\EXE201\hextre-challenge-master\Apis\Domain\obj\Debug\net7.0\ref\Domain.dll

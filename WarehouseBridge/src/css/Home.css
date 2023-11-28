@@ -1,0 +1,69 @@
+.bg-cus {
+    background-image: url('../assets/images/kho-bg.jpg');
+    background-position: center;
+    background-size: contain;
+}
+
+.title-cus::before {
+    content: '';
+    position: absolute;
+    right: -30%;
+    top: 50%;
+    width: 45px;
+    height: 2px;
+    transform: translateY(-50%);
+    background-color: #fea116;
+}
+
+.title-cus::after {
+    content: '';
+    position: absolute;
+    left: -30%;
+    top: 50%;
+    width: 45px;
+    height: 2px;
+    transform: translateY(-50%);
+    background-color: #fea116;
+}
+
+.bg-s4 {
+    background-image: url('../assets/images/kho-bg.jpg');
+    background-position: center;
+    background-size: cover;
+}
+
+.br-cus-s5 {
+    border: 7px double #b9b9b9;
+    font-size: 72px;
+    padding: 10px;
+}
+
+
+.s5-item {
+    transition: .2s ease-in;
+    cursor: pointer;
+}
+
+.s5-item:hover .s5-icon,
+.s5-item:hover h1,
+.s5-item:hover p {
+    color: #fff;
+}
+
+.s5-item:hover {
+    background-color: #fea116;
+}
+
+.icon-s7 {
+    background-color: #fea116;
+    font-size: 30px;
+    color: #fff;
+    border: 1px solid #fea116;
+    transition: .2s ease-in;
+    cursor: pointer;
+}
+
+.icon-s7:hover {
+    background-color: #fff;
+    color: #fea116;
+}

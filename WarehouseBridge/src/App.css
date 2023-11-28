@@ -1,0 +1,139 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.bg-primary {
+    background-color: #0f1728;
+}
+
+.bg-secondary {
+    background-color: #fea116;
+}
+
+.text-primary {
+    color: #0f1728;
+}
+
+.text-secondary {
+    color: #fea116;
+}
+
+.btn-primary {
+    border: 1px solid #0f1728;
+    background-color: #0f1728;
+    color: #fff;
+    cursor: pointer;
+    transition: .2s ease-in;
+}
+
+.btn-primary:hover {
+    background-color: white;
+    color: #0f1728;
+}
+
+.btn-secondary {
+    border: 1px solid #fea116;
+    background-color: #fea116;
+    color: #fff;
+    cursor: pointer;
+    transition: .2s ease-in;
+}
+
+.btn-secondary:hover {
+    background-color: white;
+    color: #fea116;
+}
+
+.btn-sub {
+    border: 1px solid #fff;
+    background-color: #fff;
+    color: #0f1728;
+    cursor: pointer;
+    transition: .2s ease-in;
+}
+
+.btn-sub:hover {
+    background-color: white;
+    color: #0f1728;
+}
+
+.btn-cancel {
+    border: 1px solid #fff;
+    background-color: #d5d5d5;
+    color: #000;
+    cursor: pointer;
+    transition: .2s ease-in;
+}
+
+.btn-cancel:hover {
+    background-color: white;
+    color: #0f1728;
+    border-color: #a3a3a3;
+}
+
+
+
+.input-cus {
+    /* border-radius: 10px; */
+    /* padding: 10px 16px; */
+    border: 1px solid #eaeaea;
+}
+
+.input-cus:focus {
+    outline: none;
+}
+
+.err-in {
+    border: 1px solid red;
+}
+
+.del-icon {
+    color: red;
+}
+
+.edit-icon {
+    color: rgb(20, 152, 20);
+}
+
+.del-icon,
+.edit-icon {
+    font-size: 24px;
+    margin: 0 10px;
+}
+
+.del-icon:hover,
+.edit-icon:hover {
+    opacity: .3;
+}
+
+.truncate-cus {
+    width: 90%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.bg-fog-cus {
+    background-color: rgba(0, 0, 0, 0.6);
+    position: fixed;
+    z-index: 99;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.hide-scroll {
+    -ms-overflow-style: none; /* khai báo sử dụng Internet Explorer, Edge */
+    scrollbar-width: none; /* sử dụng Firefox */
+    overflow-y: scroll; 
+    overflow-x: scroll;
+}
+
+.hide-scroll::-webkit-scrollbar {
+    display: none; /* cho Chrome, Safari, and Opera */
+}

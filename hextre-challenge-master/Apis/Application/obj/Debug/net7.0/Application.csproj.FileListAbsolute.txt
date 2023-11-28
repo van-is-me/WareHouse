@@ -1,0 +1,15 @@
+D:\workSpace\Ki8\EXE201\EXE201\hextre-challenge-master\Apis\Application\bin\Debug\net7.0\Application.deps.json
+D:\workSpace\Ki8\EXE201\EXE201\hextre-challenge-master\Apis\Application\bin\Debug\net7.0\Application.dll
+D:\workSpace\Ki8\EXE201\EXE201\hextre-challenge-master\Apis\Application\bin\Debug\net7.0\Application.pdb
+D:\workSpace\Ki8\EXE201\EXE201\hextre-challenge-master\Apis\Application\bin\Debug\net7.0\Domain.dll
+D:\workSpace\Ki8\EXE201\EXE201\hextre-challenge-master\Apis\Application\bin\Debug\net7.0\Domain.pdb
+D:\workSpace\Ki8\EXE201\EXE201\hextre-challenge-master\Apis\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+D:\workSpace\Ki8\EXE201\EXE201\hextre-challenge-master\Apis\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\workSpace\Ki8\EXE201\EXE201\hextre-challenge-master\Apis\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+D:\workSpace\Ki8\EXE201\EXE201\hextre-challenge-master\Apis\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+D:\workSpace\Ki8\EXE201\EXE201\hextre-challenge-master\Apis\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+D:\workSpace\Ki8\EXE201\EXE201\hextre-challenge-master\Apis\Application\obj\Debug\net7.0\Application.csproj.CopyComplete
+D:\workSpace\Ki8\EXE201\EXE201\hextre-challenge-master\Apis\Application\obj\Debug\net7.0\Application.dll
+D:\workSpace\Ki8\EXE201\EXE201\hextre-challenge-master\Apis\Application\obj\Debug\net7.0\refint\Application.dll
+D:\workSpace\Ki8\EXE201\EXE201\hextre-challenge-master\Apis\Application\obj\Debug\net7.0\Application.pdb
+D:\workSpace\Ki8\EXE201\EXE201\hextre-challenge-master\Apis\Application\obj\Debug\net7.0\ref\Application.dll
